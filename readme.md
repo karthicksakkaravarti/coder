@@ -36,7 +36,7 @@ This project implements an AI-powered Coeder using PyTorch and the Transformer a
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/html-generator.git
+   git clone https://github.com/karthicksakkaravarti/coder.git
    cd html-generator
    ```
 
