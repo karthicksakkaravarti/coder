@@ -1,6 +1,6 @@
-# HTML Generator
+# Coeder
 
-This project implements an AI-powered HTML generator using PyTorch and the Transformer architecture. It takes natural language instructions and generates corresponding HTML code.
+This project implements an AI-powered Coeder using PyTorch and the Transformer architecture. It takes natural language instructions and generates corresponding HTML code.
 
 ## Table of Contents
 
@@ -125,7 +125,7 @@ Model and training parameters can be configured in `configs/model_config.yaml`. 
 
 ## Contributing
 
-Contributions to improve the HTML generator are welcome. Please follow these steps:
+Contributions to improve the Coeder are welcome. Please follow these steps:
 
 1. Fork the repository
 2. Create a new branch (`git checkout -b feature/your-feature-name`)
