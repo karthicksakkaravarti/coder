@@ -1,0 +1,18 @@
+# Model parameters
+vocab_size: 30522  # BERT's vocab size
+d_model: 768
+nhead: 8
+num_decoder_layers: 6
+
+# Training parameters
+batch_size: 32
+learning_rate: 0.001
+num_epochs: 10
+save_every: 2  # Save model every 2 epochs
+
+# Data parameters
+data_path: 'data/processed/html_dataset.csv'
+
+# Model saving and loading
+model_save_path: 'models/saved_models/'
+model_path: 'models/saved_models/final_model.pth'
